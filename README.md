@@ -21,3 +21,7 @@ Mac: ~/Library/Application Support/Anon/
 Linux: ~/.anon/
 ```
 2. Start your node normally (no reindex required).
+
+```
+cd ~/anon
+./src/anond
