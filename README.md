@@ -1,7 +1,8 @@
 # ANON Bootstrap
 
 This is **OPTIONAL** (useful for full node only or after a resync/reindex).
-**Only for sapling update - protocol 180008***
+
+**Only after sapling update - protocol 180008***
 
 If you want to sync faster, you can download a significant portion of the blockchain.
 This zipped file contains raw blocks (up to block 46,000).
