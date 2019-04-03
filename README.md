@@ -5,11 +5,13 @@ This is **OPTIONAL** (useful for full node only or after a resync/reindex).
 **Only after a successfull installation of the sapling update - Protocol 180008**
 
 If you want to sync faster, you can download a significant portion of the blockchain.
-This zipped file contains raw blocks (up to block 46,000).
+This zipped file contains raw blocks (up to block ~46,000).
 
-[Download (updated 01.04.19)](https://uce34a600f740abaeabcb39a2ab1.dl.dropboxusercontent.com/cd/0/get/AeMgSfGnOYqkb9RhLhehWODwsUH9oRcS1I4G6fHDS3FxxuZB-9EQ4daaxO5g5muVwLLt8_n8FjDiP0f0-AatCObpVeb7Idq7BwmMb3dJSlmiog/file?dl=1#)
+[Download (updated 03.04.19)](https://uc1ef31583995d106768bcab1f0d.dl.dropboxusercontent.com/cd/0/get/AeSlR9RAbotrVCLFD5n5e-0AxbmZ1dbewjhoXIJcuAA9gtz08WB_Ngydabj0dzRHvZzc7r7CPaxPark1g-A-U8-ii1_WX7joxWhNvXhFsKNOuw/file?dl=1#)
 
-Raw link: https://www.dropbox.com/s/u9kx808t2lkywiw/anon_bootstrap.zip?dl=0
+
+Raw link: https://www.dropbox.com/s/idub2rp6wk2boh4/anon_bootstrap.zip?dl=0
+
 
 **How to use:**
 
